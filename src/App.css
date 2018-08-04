@@ -21,6 +21,10 @@
 .App-intro {
   font-size: large;
 }
+.Router {
+  justify-content: center;
+  display: flex;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
